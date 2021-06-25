@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/app_classes/debug/classes.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debugAndroidTest/R.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/merged_java_res/debug/out.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/merged_java_res/debugAndroidTest/out.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/c3084ca3c3125a4003175d5abb4a79f96c1e62641abb12a4ad200512d19a97e0_0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/c3084ca3c3125a4003175d5abb4a79f96c1e62641abb12a4ad200512d19a97e0_1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/c3084ca3c3125a4003175d5abb4a79f96c1e62641abb12a4ad200512d19a97e0_2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/c3084ca3c3125a4003175d5abb4a79f96c1e62641abb12a4ad200512d19a97e0_3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debugAndroidTest/out/4c9f9c05c8ddb5b1e895dece19012a28c0029aa3a49637243aa8a2183116a5d6_0.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debugAndroidTest/out/4c9f9c05c8ddb5b1e895dece19012a28c0029aa3a49637243aa8a2183116a5d6_1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debugAndroidTest/out/4c9f9c05c8ddb5b1e895dece19012a28c0029aa3a49637243aa8a2183116a5d6_2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debugAndroidTest/out/4c9f9c05c8ddb5b1e895dece19012a28c0029aa3a49637243aa8a2183116a5d6_3.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="app/build/generated/source/buildConfig/androidTest/debug/module-info.java"/>
+	<classpathentry kind="output" path="app/build/intermediates/javac/debug/classes"/>
+</classpath>
