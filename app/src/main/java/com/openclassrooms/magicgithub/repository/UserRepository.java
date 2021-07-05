@@ -7,6 +7,7 @@ import java.util.List;
 
 public class UserRepository {
 
+    // beneficier d'utiliser cet attribut
     private final ApiService apiService; // TODO: A utiliser
 
     public UserRepository(ApiService apiService) {
@@ -15,14 +16,17 @@ public class UserRepository {
 
     public List<User> getUsers() {
         // TODO: A modifier
-        return null;
+        return apiService.getUsers();
+
     }
 
     public void generateRandomUser() {
         // TODO: A modifier
+        apiService.generateRandomUser();
     }
 
     public void deleteUser(User user) {
         // TODO: A modifier
+        apiService.deleteUser(user);
     }
 }
